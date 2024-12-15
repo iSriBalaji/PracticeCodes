@@ -1,2 +1,4 @@
 # Best demo-  https://www.youtube.com/watch?v=4fX93r1eZxE&ab_channel=AdamTechdays
 # Always check sample code in the google documentation
+
+Datastore UI and way of storing data is different from Firestore native - When I did the lab on cloud guru I learned the difference
